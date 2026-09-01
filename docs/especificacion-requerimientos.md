@@ -113,26 +113,6 @@ Permite a un estudiante inscribirse en una tutoría de su interés indicando su 
 
 Si se cumplen todas las condiciones, se registra la inscripción del estudiante y se reduce en uno la cantidad de cupos disponibles de la tutoría. Si alguna condición no se cumple, la inscripción no se realiza y se informa al estudiante el motivo.
 
-
-### RF-04 - [Nombre del requerimiento]
-
-#### Resumen
-
-#### Entradas
-
-| Entrada | Tipo de dato | Descripción |
-|---|---|---|
-
-#### Reglas o condiciones
-
-#### Salidas
-
-| Salida | Tipo de dato | Descripción |
-|---|---|---|
-
-#### Resultado esperado
-
-
 ### RF-04 - Cancelación de Inscripción
 
 #### Resumen
